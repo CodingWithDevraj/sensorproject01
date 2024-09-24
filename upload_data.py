@@ -4,7 +4,7 @@ import numpy as np
 
 #Url
 
-uri = "mongodb+srv://devraj:Q1J2RNnKUb2pcYT1@cluster0.ulndc.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://devraj:FE9CTfkKmtCGHJXH@cluster0.ulndc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 #create a new client
 client = MongoClient(uri)
